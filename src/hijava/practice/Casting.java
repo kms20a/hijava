@@ -5,7 +5,7 @@ public class Casting {
 		byte b = 1;
 		int i = b;
 		
-		long l = 12345678888L;
+		long l = 12345678888999L;
 		
 		System.out.println(i + l);
 	}
